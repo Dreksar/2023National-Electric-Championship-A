@@ -1,0 +1,10 @@
+f4_7_13threephase\sogi_pll.o: SOGI_PLL.c
+f4_7_13threephase\sogi_pll.o: SOGI_PLL.h
+f4_7_13threephase\sogi_pll.o: ../Middlewares/ST/ARM/DSP/Inc/arm_math.h
+f4_7_13threephase\sogi_pll.o: ../Drivers/CMSIS/Include/core_cm4.h
+f4_7_13threephase\sogi_pll.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+f4_7_13threephase\sogi_pll.o: ../Drivers/CMSIS/Include/cmsis_version.h
+f4_7_13threephase\sogi_pll.o: ../Drivers/CMSIS/Include/cmsis_compiler.h
+f4_7_13threephase\sogi_pll.o: ../Drivers/CMSIS/Include/cmsis_armcc.h
+f4_7_13threephase\sogi_pll.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+f4_7_13threephase\sogi_pll.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
